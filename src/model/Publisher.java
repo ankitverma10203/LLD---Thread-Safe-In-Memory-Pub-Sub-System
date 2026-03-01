@@ -1,3 +1,5 @@
+package model;
+
 public class Publisher<T> {
   private final String pubId;
   private final Topic<T> topic;
